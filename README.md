@@ -1,2 +1,2 @@
-# hitchcock-s_movies
+# hitchcock_movies
 A collection of Hitchcock's movies
